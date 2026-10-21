@@ -17,6 +17,15 @@
   <img src="https://img.shields.io/badge/BACKUP%20%26%20RESTORE-INCLUDED-0891B2?style=flat-square" alt="Backup and Restore">
 </p>
 
+<p align="center">
+  <img
+    src="https://github.com/DLSS5-Game-Installer-Utility/.github/blob/main/docs/utility-dark.jpg?raw=true"
+    width="1200"
+    height="500"
+    alt="DLSS 5 Game Installer Utility Preview"
+  >
+</p>
+
 **DLSS 5 Game Installer Utility** is a portable Windows application designed to simplify DLSS 5 component installation and management across compatible PC games and supported emulators.
 
 The application brings game discovery, executable selection, graphics API configuration, component installation, and file restoration together in one interface. Instead of manually navigating game folders and replacing files yourself, you can find your game, select the appropriate installation method, and manage the required changes from a single place.
