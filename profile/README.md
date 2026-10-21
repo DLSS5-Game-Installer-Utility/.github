@@ -1,4 +1,4 @@
-# DLSS 5 Game Installer Utility — DLSS 5 Installer for PC Games & Emulators
+# DLSS 5 Installer for PC Games & Emulators — Game Installer Utility
 
 <p align="center">
   <a href="https://github.com/DLSS5-Game-Installer-Utility/.github/releases/download/1.0.0/DLSS5-Game-Installer-Utility-Windows-x64-v1.0.0.zip">
